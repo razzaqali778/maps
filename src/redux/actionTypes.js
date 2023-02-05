@@ -1,0 +1,1 @@
+export const ADD_INPUT_SEARCH = "ADD_INPUT_SEARCH";
